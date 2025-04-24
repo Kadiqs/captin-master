@@ -1,0 +1,1001 @@
+﻿ticket_serial,match_id,seat_number,price,status,stadium_serial,home_team,away_team,stadium_id,match_date,name,city,capacity
+T5001,1,Section-5-Row-3-Seat-11,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5002,1,Section-4-Row-3-Seat-3,150,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5003,1,Section-5-Row-3-Seat-20,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5004,1,Section-1-Row-3-Seat-15,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5005,1,Section-4-Row-8-Seat-5,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5006,1,Section-1-Row-3-Seat-9,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5007,1,Section-3-Row-4-Seat-7,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5008,1,Section-2-Row-8-Seat-20,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5009,1,Section-1-Row-3-Seat-6,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5010,1,Section-3-Row-2-Seat-6,200,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5011,1,Section-5-Row-1-Seat-20,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5012,1,Section-5-Row-9-Seat-5,300,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5013,1,Section-5-Row-9-Seat-5,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5014,1,Section-5-Row-3-Seat-17,300,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5015,1,Section-1-Row-8-Seat-17,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5016,1,Section-3-Row-5-Seat-17,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5017,1,Section-3-Row-5-Seat-13,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5018,1,Section-3-Row-3-Seat-5,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5019,1,Section-1-Row-7-Seat-20,200,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5020,1,Section-5-Row-1-Seat-5,200,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5021,1,Section-5-Row-6-Seat-15,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5022,1,Section-1-Row-10-Seat-4,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5023,1,Section-3-Row-7-Seat-3,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5024,1,Section-1-Row-3-Seat-12,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5025,1,Section-1-Row-3-Seat-9,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5026,1,Section-1-Row-8-Seat-12,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5027,1,Section-1-Row-6-Seat-14,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5028,1,Section-1-Row-6-Seat-6,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5029,1,Section-1-Row-8-Seat-4,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5030,1,Section-1-Row-1-Seat-18,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5031,1,Section-3-Row-3-Seat-18,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5032,1,Section-3-Row-3-Seat-7,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5033,1,Section-1-Row-3-Seat-12,250,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5034,1,Section-3-Row-10-Seat-7,150,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5035,1,Section-5-Row-5-Seat-17,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5036,1,Section-3-Row-6-Seat-15,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5037,1,Section-5-Row-8-Seat-18,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5038,1,Section-4-Row-5-Seat-15,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5039,1,Section-4-Row-8-Seat-17,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5040,1,Section-1-Row-6-Seat-10,150,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5041,1,Section-4-Row-9-Seat-15,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5042,1,Section-4-Row-4-Seat-12,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5043,1,Section-2-Row-5-Seat-14,150,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5044,1,Section-1-Row-5-Seat-9,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5045,1,Section-1-Row-4-Seat-9,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5046,1,Section-1-Row-9-Seat-11,150,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5047,1,Section-4-Row-10-Seat-1,300,sold,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5048,1,Section-5-Row-6-Seat-12,200,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5049,1,Section-3-Row-8-Seat-1,300,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5050,1,Section-5-Row-7-Seat-7,250,available,S1002,South Korea,Saudi Arabia,2,2034-06-11 00:00,King Abdullah Sports City,Jeddah,62345
+T5051,2,Section-4-Row-10-Seat-10,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5052,2,Section-5-Row-6-Seat-17,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5053,2,Section-5-Row-8-Seat-17,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5054,2,Section-3-Row-3-Seat-12,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5055,2,Section-2-Row-7-Seat-1,300,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5056,2,Section-5-Row-5-Seat-16,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5057,2,Section-5-Row-7-Seat-10,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5058,2,Section-4-Row-7-Seat-17,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5059,2,Section-1-Row-8-Seat-20,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5060,2,Section-4-Row-3-Seat-19,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5061,2,Section-5-Row-9-Seat-19,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5062,2,Section-4-Row-8-Seat-8,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5063,2,Section-3-Row-9-Seat-9,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5064,2,Section-5-Row-3-Seat-1,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5065,2,Section-4-Row-4-Seat-16,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5066,2,Section-5-Row-1-Seat-15,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5067,2,Section-1-Row-3-Seat-3,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5068,2,Section-3-Row-7-Seat-4,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5069,2,Section-1-Row-10-Seat-11,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5070,2,Section-3-Row-4-Seat-3,300,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5071,2,Section-5-Row-4-Seat-3,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5072,2,Section-4-Row-7-Seat-2,150,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5073,2,Section-2-Row-6-Seat-20,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5074,2,Section-4-Row-8-Seat-2,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5075,2,Section-3-Row-7-Seat-19,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5076,2,Section-1-Row-8-Seat-8,300,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5077,2,Section-5-Row-9-Seat-17,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5078,2,Section-4-Row-5-Seat-20,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5079,2,Section-1-Row-8-Seat-16,300,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5080,2,Section-3-Row-9-Seat-14,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5081,2,Section-2-Row-4-Seat-5,150,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5082,2,Section-2-Row-3-Seat-16,150,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5083,2,Section-3-Row-5-Seat-3,150,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5084,2,Section-5-Row-1-Seat-16,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5085,2,Section-1-Row-7-Seat-9,150,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5086,2,Section-1-Row-2-Seat-15,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5087,2,Section-3-Row-1-Seat-2,250,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5088,2,Section-3-Row-4-Seat-16,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5089,2,Section-5-Row-5-Seat-2,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5090,2,Section-5-Row-7-Seat-20,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5091,2,Section-2-Row-7-Seat-14,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5092,2,Section-1-Row-5-Seat-6,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5093,2,Section-4-Row-7-Seat-14,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5094,2,Section-1-Row-4-Seat-6,200,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5095,2,Section-3-Row-6-Seat-13,150,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5096,2,Section-2-Row-4-Seat-16,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5097,2,Section-2-Row-8-Seat-11,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5098,2,Section-4-Row-6-Seat-15,300,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5099,2,Section-3-Row-3-Seat-11,250,available,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5100,2,Section-1-Row-3-Seat-4,200,sold,S1003,England,USA,3,2034-06-28 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5101,3,Section-1-Row-8-Seat-13,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5102,3,Section-3-Row-4-Seat-4,300,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5103,3,Section-2-Row-4-Seat-14,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5104,3,Section-4-Row-7-Seat-16,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5105,3,Section-1-Row-8-Seat-12,300,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5106,3,Section-5-Row-1-Seat-14,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5107,3,Section-4-Row-8-Seat-6,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5108,3,Section-2-Row-1-Seat-19,250,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5109,3,Section-4-Row-3-Seat-10,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5110,3,Section-5-Row-1-Seat-1,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5111,3,Section-4-Row-7-Seat-9,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5112,3,Section-4-Row-4-Seat-11,200,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5113,3,Section-4-Row-8-Seat-15,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5114,3,Section-5-Row-6-Seat-2,250,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5115,3,Section-4-Row-7-Seat-13,300,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5116,3,Section-4-Row-3-Seat-8,200,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5117,3,Section-4-Row-8-Seat-8,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5118,3,Section-2-Row-8-Seat-7,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5119,3,Section-2-Row-10-Seat-3,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5120,3,Section-3-Row-7-Seat-14,300,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5121,3,Section-5-Row-10-Seat-6,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5122,3,Section-2-Row-1-Seat-1,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5123,3,Section-5-Row-7-Seat-19,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5124,3,Section-3-Row-2-Seat-13,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5125,3,Section-2-Row-3-Seat-17,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5126,3,Section-4-Row-1-Seat-19,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5127,3,Section-5-Row-2-Seat-8,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5128,3,Section-4-Row-3-Seat-20,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5129,3,Section-5-Row-3-Seat-3,200,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5130,3,Section-3-Row-3-Seat-2,300,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5131,3,Section-5-Row-2-Seat-10,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5132,3,Section-1-Row-9-Seat-4,300,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5133,3,Section-3-Row-8-Seat-19,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5134,3,Section-1-Row-5-Seat-19,250,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5135,3,Section-5-Row-7-Seat-9,300,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5136,3,Section-4-Row-3-Seat-9,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5137,3,Section-3-Row-8-Seat-2,250,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5138,3,Section-4-Row-3-Seat-4,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5139,3,Section-5-Row-7-Seat-11,300,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5140,3,Section-5-Row-5-Seat-9,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5141,3,Section-2-Row-3-Seat-14,200,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5142,3,Section-1-Row-7-Seat-13,300,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5143,3,Section-3-Row-9-Seat-4,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5144,3,Section-4-Row-7-Seat-7,300,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5145,3,Section-5-Row-8-Seat-12,150,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5146,3,Section-1-Row-1-Seat-4,150,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5147,3,Section-1-Row-3-Seat-5,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5148,3,Section-3-Row-4-Seat-6,250,available,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5149,3,Section-4-Row-10-Seat-15,250,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5150,3,Section-5-Row-5-Seat-5,200,sold,S1001,South Korea,Morocco,1,2034-07-02 00:00,King Fahd Stadium,Riyadh,75000
+T5151,4,Section-4-Row-6-Seat-11,250,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5152,4,Section-3-Row-7-Seat-10,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5153,4,Section-4-Row-8-Seat-3,300,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5154,4,Section-1-Row-9-Seat-10,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5155,4,Section-4-Row-1-Seat-19,150,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5156,4,Section-4-Row-1-Seat-12,300,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5157,4,Section-1-Row-3-Seat-20,300,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5158,4,Section-1-Row-2-Seat-13,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5159,4,Section-2-Row-1-Seat-2,250,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5160,4,Section-1-Row-4-Seat-6,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5161,4,Section-5-Row-2-Seat-12,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5162,4,Section-5-Row-8-Seat-7,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5163,4,Section-1-Row-10-Seat-9,250,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5164,4,Section-2-Row-8-Seat-7,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5165,4,Section-4-Row-8-Seat-12,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5166,4,Section-2-Row-5-Seat-18,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5167,4,Section-1-Row-1-Seat-2,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5168,4,Section-2-Row-10-Seat-5,150,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5169,4,Section-3-Row-4-Seat-17,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5170,4,Section-5-Row-9-Seat-13,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5171,4,Section-3-Row-3-Seat-4,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5172,4,Section-4-Row-1-Seat-15,250,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5173,4,Section-4-Row-8-Seat-3,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5174,4,Section-5-Row-2-Seat-2,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5175,4,Section-2-Row-1-Seat-20,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5176,4,Section-4-Row-3-Seat-13,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5177,4,Section-2-Row-10-Seat-7,250,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5178,4,Section-2-Row-1-Seat-4,250,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5179,4,Section-3-Row-5-Seat-11,150,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5180,4,Section-1-Row-4-Seat-17,150,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5181,4,Section-1-Row-6-Seat-10,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5182,4,Section-3-Row-6-Seat-5,250,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5183,4,Section-1-Row-4-Seat-16,150,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5184,4,Section-5-Row-7-Seat-13,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5185,4,Section-5-Row-1-Seat-14,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5186,4,Section-5-Row-3-Seat-14,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5187,4,Section-2-Row-7-Seat-2,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5188,4,Section-3-Row-9-Seat-19,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5189,4,Section-5-Row-1-Seat-15,300,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5190,4,Section-3-Row-7-Seat-2,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5191,4,Section-1-Row-3-Seat-3,250,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5192,4,Section-5-Row-7-Seat-16,300,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5193,4,Section-3-Row-1-Seat-10,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5194,4,Section-2-Row-4-Seat-6,200,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5195,4,Section-3-Row-8-Seat-19,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5196,4,Section-1-Row-1-Seat-10,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5197,4,Section-1-Row-2-Seat-3,250,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5198,4,Section-4-Row-2-Seat-11,150,sold,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5199,4,Section-1-Row-2-Seat-10,200,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5200,4,Section-3-Row-5-Seat-6,300,available,S1001,Germany,Morocco,1,2034-06-19 00:00,King Fahd Stadium,Riyadh,75000
+T5201,5,Section-4-Row-9-Seat-9,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5202,5,Section-1-Row-3-Seat-15,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5203,5,Section-2-Row-1-Seat-4,300,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5204,5,Section-2-Row-5-Seat-1,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5205,5,Section-1-Row-10-Seat-9,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5206,5,Section-3-Row-2-Seat-1,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5207,5,Section-4-Row-6-Seat-17,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5208,5,Section-4-Row-4-Seat-1,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5209,5,Section-1-Row-10-Seat-8,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5210,5,Section-1-Row-7-Seat-3,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5211,5,Section-2-Row-6-Seat-14,300,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5212,5,Section-3-Row-7-Seat-18,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5213,5,Section-5-Row-2-Seat-6,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5214,5,Section-1-Row-10-Seat-19,150,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5215,5,Section-3-Row-3-Seat-18,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5216,5,Section-2-Row-4-Seat-1,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5217,5,Section-4-Row-7-Seat-15,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5218,5,Section-1-Row-7-Seat-12,200,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5219,5,Section-4-Row-8-Seat-15,300,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5220,5,Section-5-Row-5-Seat-8,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5221,5,Section-3-Row-2-Seat-7,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5222,5,Section-5-Row-4-Seat-19,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5223,5,Section-3-Row-10-Seat-16,250,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5224,5,Section-5-Row-8-Seat-20,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5225,5,Section-5-Row-9-Seat-12,150,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5226,5,Section-5-Row-8-Seat-6,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5227,5,Section-4-Row-8-Seat-17,250,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5228,5,Section-4-Row-10-Seat-1,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5229,5,Section-3-Row-2-Seat-2,250,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5230,5,Section-4-Row-4-Seat-17,250,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5231,5,Section-3-Row-8-Seat-1,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5232,5,Section-3-Row-1-Seat-9,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5233,5,Section-2-Row-8-Seat-5,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5234,5,Section-2-Row-6-Seat-12,200,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5235,5,Section-5-Row-3-Seat-7,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5236,5,Section-3-Row-10-Seat-10,200,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5237,5,Section-5-Row-3-Seat-1,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5238,5,Section-1-Row-10-Seat-14,300,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5239,5,Section-3-Row-9-Seat-10,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5240,5,Section-1-Row-10-Seat-18,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5241,5,Section-1-Row-5-Seat-15,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5242,5,Section-2-Row-5-Seat-16,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5243,5,Section-1-Row-10-Seat-18,150,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5244,5,Section-2-Row-6-Seat-11,150,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5245,5,Section-1-Row-10-Seat-18,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5246,5,Section-3-Row-8-Seat-18,200,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5247,5,Section-3-Row-9-Seat-12,250,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5248,5,Section-2-Row-8-Seat-18,300,available,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5249,5,Section-5-Row-9-Seat-3,300,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5250,5,Section-1-Row-8-Seat-1,150,sold,S1003,Spain,Argentina,3,2034-06-20 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5251,6,Section-2-Row-8-Seat-16,250,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5252,6,Section-1-Row-5-Seat-3,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5253,6,Section-1-Row-6-Seat-14,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5254,6,Section-5-Row-9-Seat-9,250,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5255,6,Section-3-Row-2-Seat-8,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5256,6,Section-3-Row-3-Seat-3,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5257,6,Section-1-Row-8-Seat-1,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5258,6,Section-2-Row-8-Seat-8,250,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5259,6,Section-4-Row-3-Seat-10,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5260,6,Section-1-Row-3-Seat-17,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5261,6,Section-2-Row-6-Seat-17,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5262,6,Section-5-Row-6-Seat-4,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5263,6,Section-5-Row-5-Seat-16,250,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5264,6,Section-5-Row-5-Seat-9,150,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5265,6,Section-5-Row-4-Seat-7,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5266,6,Section-5-Row-2-Seat-3,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5267,6,Section-4-Row-2-Seat-5,150,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5268,6,Section-2-Row-4-Seat-5,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5269,6,Section-1-Row-7-Seat-18,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5270,6,Section-5-Row-9-Seat-16,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5271,6,Section-3-Row-7-Seat-3,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5272,6,Section-3-Row-10-Seat-5,150,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5273,6,Section-4-Row-3-Seat-3,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5274,6,Section-3-Row-2-Seat-12,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5275,6,Section-1-Row-10-Seat-17,250,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5276,6,Section-5-Row-6-Seat-10,250,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5277,6,Section-2-Row-9-Seat-5,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5278,6,Section-2-Row-1-Seat-17,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5279,6,Section-1-Row-8-Seat-5,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5280,6,Section-3-Row-1-Seat-6,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5281,6,Section-4-Row-5-Seat-13,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5282,6,Section-1-Row-3-Seat-11,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5283,6,Section-2-Row-3-Seat-7,250,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5284,6,Section-3-Row-7-Seat-9,250,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5285,6,Section-4-Row-8-Seat-16,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5286,6,Section-3-Row-7-Seat-3,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5287,6,Section-3-Row-4-Seat-15,150,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5288,6,Section-3-Row-6-Seat-11,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5289,6,Section-3-Row-9-Seat-3,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5290,6,Section-4-Row-6-Seat-18,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5291,6,Section-5-Row-9-Seat-6,250,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5292,6,Section-2-Row-10-Seat-18,250,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5293,6,Section-3-Row-3-Seat-13,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5294,6,Section-3-Row-3-Seat-10,300,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5295,6,Section-4-Row-5-Seat-5,200,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5296,6,Section-5-Row-10-Seat-13,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5297,6,Section-1-Row-9-Seat-4,200,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5298,6,Section-1-Row-8-Seat-7,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5299,6,Section-1-Row-2-Seat-16,300,sold,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5300,6,Section-2-Row-1-Seat-13,150,available,S1002,Germany,England,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5301,7,Section-4-Row-6-Seat-4,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5302,7,Section-2-Row-4-Seat-9,200,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5303,7,Section-1-Row-5-Seat-2,300,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5304,7,Section-1-Row-3-Seat-18,250,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5305,7,Section-5-Row-9-Seat-16,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5306,7,Section-4-Row-2-Seat-4,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5307,7,Section-1-Row-7-Seat-12,250,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5308,7,Section-4-Row-7-Seat-20,300,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5309,7,Section-4-Row-1-Seat-6,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5310,7,Section-2-Row-5-Seat-3,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5311,7,Section-4-Row-4-Seat-15,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5312,7,Section-4-Row-4-Seat-5,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5313,7,Section-1-Row-10-Seat-13,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5314,7,Section-4-Row-5-Seat-11,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5315,7,Section-1-Row-4-Seat-4,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5316,7,Section-4-Row-9-Seat-1,250,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5317,7,Section-3-Row-9-Seat-3,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5318,7,Section-4-Row-5-Seat-1,300,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5319,7,Section-3-Row-7-Seat-5,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5320,7,Section-1-Row-8-Seat-20,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5321,7,Section-1-Row-4-Seat-18,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5322,7,Section-3-Row-9-Seat-18,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5323,7,Section-1-Row-2-Seat-8,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5324,7,Section-5-Row-2-Seat-16,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5325,7,Section-5-Row-5-Seat-9,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5326,7,Section-5-Row-4-Seat-3,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5327,7,Section-3-Row-4-Seat-12,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5328,7,Section-5-Row-9-Seat-15,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5329,7,Section-3-Row-10-Seat-10,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5330,7,Section-4-Row-1-Seat-18,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5331,7,Section-5-Row-3-Seat-3,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5332,7,Section-5-Row-4-Seat-20,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5333,7,Section-3-Row-1-Seat-9,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5334,7,Section-4-Row-8-Seat-10,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5335,7,Section-3-Row-4-Seat-7,300,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5336,7,Section-3-Row-10-Seat-3,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5337,7,Section-2-Row-9-Seat-12,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5338,7,Section-2-Row-5-Seat-7,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5339,7,Section-3-Row-3-Seat-7,200,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5340,7,Section-3-Row-10-Seat-14,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5341,7,Section-1-Row-10-Seat-13,200,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5342,7,Section-1-Row-2-Seat-20,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5343,7,Section-4-Row-7-Seat-18,200,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5344,7,Section-3-Row-8-Seat-1,300,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5345,7,Section-5-Row-6-Seat-6,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5346,7,Section-3-Row-3-Seat-4,250,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5347,7,Section-5-Row-6-Seat-9,150,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5348,7,Section-3-Row-6-Seat-15,300,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5349,7,Section-3-Row-9-Seat-3,250,available,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5350,7,Section-5-Row-8-Seat-5,150,sold,S1003,Japan,Spain,3,2034-06-24 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5351,8,Section-3-Row-9-Seat-13,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5352,8,Section-5-Row-4-Seat-13,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5353,8,Section-2-Row-5-Seat-11,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5354,8,Section-2-Row-6-Seat-12,200,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5355,8,Section-4-Row-3-Seat-9,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5356,8,Section-5-Row-1-Seat-11,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5357,8,Section-1-Row-8-Seat-5,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5358,8,Section-2-Row-5-Seat-4,250,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5359,8,Section-1-Row-2-Seat-17,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5360,8,Section-4-Row-4-Seat-2,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5361,8,Section-1-Row-6-Seat-2,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5362,8,Section-4-Row-3-Seat-10,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5363,8,Section-3-Row-7-Seat-10,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5364,8,Section-1-Row-10-Seat-4,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5365,8,Section-4-Row-9-Seat-1,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5366,8,Section-2-Row-5-Seat-18,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5367,8,Section-3-Row-10-Seat-4,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5368,8,Section-3-Row-2-Seat-1,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5369,8,Section-4-Row-1-Seat-6,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5370,8,Section-1-Row-2-Seat-6,200,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5371,8,Section-1-Row-9-Seat-4,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5372,8,Section-1-Row-6-Seat-10,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5373,8,Section-1-Row-6-Seat-6,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5374,8,Section-3-Row-7-Seat-15,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5375,8,Section-5-Row-3-Seat-2,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5376,8,Section-3-Row-10-Seat-1,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5377,8,Section-1-Row-3-Seat-11,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5378,8,Section-2-Row-8-Seat-3,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5379,8,Section-4-Row-7-Seat-13,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5380,8,Section-2-Row-9-Seat-8,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5381,8,Section-4-Row-10-Seat-17,150,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5382,8,Section-3-Row-1-Seat-17,200,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5383,8,Section-3-Row-10-Seat-8,250,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5384,8,Section-1-Row-6-Seat-14,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5385,8,Section-4-Row-8-Seat-7,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5386,8,Section-2-Row-5-Seat-16,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5387,8,Section-4-Row-1-Seat-17,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5388,8,Section-3-Row-5-Seat-17,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5389,8,Section-1-Row-2-Seat-18,250,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5390,8,Section-3-Row-9-Seat-14,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5391,8,Section-5-Row-5-Seat-4,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5392,8,Section-5-Row-6-Seat-20,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5393,8,Section-1-Row-1-Seat-12,200,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5394,8,Section-2-Row-9-Seat-11,150,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5395,8,Section-1-Row-1-Seat-9,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5396,8,Section-1-Row-2-Seat-7,300,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5397,8,Section-5-Row-4-Seat-4,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5398,8,Section-4-Row-5-Seat-8,250,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5399,8,Section-4-Row-8-Seat-12,300,sold,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5400,8,Section-5-Row-2-Seat-18,200,available,S1002,Spain,Germany,2,2034-06-28 00:00,King Abdullah Sports City,Jeddah,62345
+T5401,9,Section-1-Row-2-Seat-7,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5402,9,Section-4-Row-7-Seat-12,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5403,9,Section-1-Row-7-Seat-7,300,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5404,9,Section-1-Row-5-Seat-10,300,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5405,9,Section-5-Row-7-Seat-9,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5406,9,Section-1-Row-7-Seat-2,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5407,9,Section-1-Row-9-Seat-4,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5408,9,Section-5-Row-5-Seat-8,300,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5409,9,Section-4-Row-8-Seat-20,250,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5410,9,Section-3-Row-7-Seat-5,300,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5411,9,Section-2-Row-9-Seat-2,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5412,9,Section-2-Row-3-Seat-6,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5413,9,Section-2-Row-4-Seat-12,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5414,9,Section-5-Row-6-Seat-3,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5415,9,Section-2-Row-1-Seat-11,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5416,9,Section-3-Row-9-Seat-18,250,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5417,9,Section-5-Row-8-Seat-15,150,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5418,9,Section-2-Row-9-Seat-13,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5419,9,Section-5-Row-7-Seat-10,250,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5420,9,Section-3-Row-5-Seat-10,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5421,9,Section-4-Row-7-Seat-13,250,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5422,9,Section-3-Row-10-Seat-15,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5423,9,Section-4-Row-3-Seat-13,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5424,9,Section-3-Row-6-Seat-16,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5425,9,Section-4-Row-10-Seat-16,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5426,9,Section-3-Row-1-Seat-15,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5427,9,Section-1-Row-3-Seat-15,300,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5428,9,Section-1-Row-1-Seat-4,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5429,9,Section-4-Row-1-Seat-2,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5430,9,Section-3-Row-2-Seat-14,300,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5431,9,Section-3-Row-7-Seat-9,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5432,9,Section-5-Row-7-Seat-12,300,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5433,9,Section-2-Row-7-Seat-15,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5434,9,Section-2-Row-10-Seat-6,300,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5435,9,Section-2-Row-1-Seat-1,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5436,9,Section-3-Row-5-Seat-4,150,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5437,9,Section-3-Row-4-Seat-18,300,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5438,9,Section-5-Row-10-Seat-15,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5439,9,Section-2-Row-1-Seat-16,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5440,9,Section-2-Row-5-Seat-6,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5441,9,Section-4-Row-4-Seat-5,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5442,9,Section-2-Row-1-Seat-17,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5443,9,Section-5-Row-1-Seat-12,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5444,9,Section-5-Row-3-Seat-9,200,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5445,9,Section-2-Row-4-Seat-2,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5446,9,Section-1-Row-1-Seat-12,150,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5447,9,Section-3-Row-8-Seat-7,250,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5448,9,Section-4-Row-5-Seat-9,150,available,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5449,9,Section-3-Row-8-Seat-8,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5450,9,Section-3-Row-6-Seat-6,200,sold,S1002,USA,Japan,2,2034-07-01 00:00,King Abdullah Sports City,Jeddah,62345
+T5451,10,Section-1-Row-2-Seat-1,200,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5452,10,Section-4-Row-5-Seat-18,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5453,10,Section-1-Row-2-Seat-16,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5454,10,Section-3-Row-4-Seat-13,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5455,10,Section-3-Row-1-Seat-17,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5456,10,Section-2-Row-2-Seat-12,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5457,10,Section-2-Row-5-Seat-19,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5458,10,Section-5-Row-4-Seat-4,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5459,10,Section-3-Row-5-Seat-3,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5460,10,Section-3-Row-7-Seat-6,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5461,10,Section-1-Row-10-Seat-15,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5462,10,Section-1-Row-5-Seat-3,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5463,10,Section-2-Row-10-Seat-8,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5464,10,Section-3-Row-2-Seat-19,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5465,10,Section-2-Row-3-Seat-20,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5466,10,Section-1-Row-9-Seat-11,200,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5467,10,Section-3-Row-10-Seat-9,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5468,10,Section-4-Row-7-Seat-11,250,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5469,10,Section-1-Row-8-Seat-10,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5470,10,Section-2-Row-3-Seat-9,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5471,10,Section-2-Row-1-Seat-6,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5472,10,Section-4-Row-6-Seat-9,200,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5473,10,Section-2-Row-4-Seat-5,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5474,10,Section-1-Row-1-Seat-12,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5475,10,Section-2-Row-2-Seat-6,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5476,10,Section-2-Row-3-Seat-5,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5477,10,Section-3-Row-6-Seat-16,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5478,10,Section-2-Row-1-Seat-19,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5479,10,Section-4-Row-9-Seat-20,250,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5480,10,Section-3-Row-5-Seat-11,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5481,10,Section-4-Row-8-Seat-20,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5482,10,Section-2-Row-7-Seat-6,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5483,10,Section-4-Row-7-Seat-8,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5484,10,Section-4-Row-6-Seat-2,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5485,10,Section-2-Row-4-Seat-15,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5486,10,Section-4-Row-8-Seat-14,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5487,10,Section-4-Row-8-Seat-20,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5488,10,Section-4-Row-4-Seat-10,150,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5489,10,Section-2-Row-8-Seat-11,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5490,10,Section-3-Row-6-Seat-2,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5491,10,Section-2-Row-6-Seat-5,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5492,10,Section-1-Row-6-Seat-14,250,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5493,10,Section-3-Row-3-Seat-5,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5494,10,Section-5-Row-6-Seat-5,150,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5495,10,Section-5-Row-6-Seat-10,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5496,10,Section-2-Row-4-Seat-20,300,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5497,10,Section-5-Row-4-Seat-19,200,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5498,10,Section-1-Row-10-Seat-17,300,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5499,10,Section-3-Row-5-Seat-20,250,sold,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5500,10,Section-1-Row-8-Seat-9,200,available,S1002,Japan,Argentina,2,2034-06-23 00:00,King Abdullah Sports City,Jeddah,62345
+T5501,11,Section-2-Row-3-Seat-2,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5502,11,Section-1-Row-3-Seat-6,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5503,11,Section-5-Row-1-Seat-12,200,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5504,11,Section-4-Row-1-Seat-15,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5505,11,Section-1-Row-5-Seat-10,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5506,11,Section-4-Row-8-Seat-8,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5507,11,Section-1-Row-9-Seat-15,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5508,11,Section-4-Row-3-Seat-13,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5509,11,Section-3-Row-1-Seat-4,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5510,11,Section-3-Row-7-Seat-6,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5511,11,Section-3-Row-5-Seat-9,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5512,11,Section-5-Row-6-Seat-15,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5513,11,Section-3-Row-1-Seat-13,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5514,11,Section-2-Row-8-Seat-10,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5515,11,Section-3-Row-2-Seat-7,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5516,11,Section-5-Row-10-Seat-7,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5517,11,Section-2-Row-9-Seat-9,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5518,11,Section-4-Row-8-Seat-2,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5519,11,Section-5-Row-4-Seat-9,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5520,11,Section-4-Row-7-Seat-2,250,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5521,11,Section-3-Row-1-Seat-19,250,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5522,11,Section-1-Row-7-Seat-3,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5523,11,Section-5-Row-8-Seat-2,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5524,11,Section-1-Row-4-Seat-4,250,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5525,11,Section-4-Row-8-Seat-17,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5526,11,Section-3-Row-2-Seat-14,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5527,11,Section-1-Row-5-Seat-11,200,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5528,11,Section-1-Row-6-Seat-14,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5529,11,Section-4-Row-6-Seat-11,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5530,11,Section-4-Row-3-Seat-3,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5531,11,Section-5-Row-7-Seat-7,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5532,11,Section-3-Row-6-Seat-10,200,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5533,11,Section-4-Row-1-Seat-2,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5534,11,Section-2-Row-1-Seat-19,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5535,11,Section-1-Row-6-Seat-20,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5536,11,Section-2-Row-9-Seat-7,200,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5537,11,Section-1-Row-3-Seat-9,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5538,11,Section-1-Row-7-Seat-5,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5539,11,Section-5-Row-10-Seat-15,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5540,11,Section-2-Row-6-Seat-7,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5541,11,Section-5-Row-1-Seat-6,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5542,11,Section-4-Row-10-Seat-1,150,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5543,11,Section-2-Row-1-Seat-6,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5544,11,Section-2-Row-1-Seat-8,300,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5545,11,Section-3-Row-5-Seat-16,300,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5546,11,Section-1-Row-2-Seat-13,150,available,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5547,11,Section-1-Row-4-Seat-1,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5548,11,Section-5-Row-2-Seat-19,200,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5549,11,Section-4-Row-2-Seat-13,200,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5550,11,Section-1-Row-5-Seat-8,250,sold,S1001,South Korea,Germany,1,2034-07-08 00:00,King Fahd Stadium,Riyadh,75000
+T5551,12,Section-5-Row-1-Seat-3,150,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5552,12,Section-4-Row-4-Seat-10,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5553,12,Section-5-Row-1-Seat-19,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5554,12,Section-2-Row-9-Seat-15,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5555,12,Section-5-Row-1-Seat-14,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5556,12,Section-3-Row-7-Seat-12,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5557,12,Section-5-Row-7-Seat-14,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5558,12,Section-1-Row-2-Seat-12,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5559,12,Section-5-Row-7-Seat-14,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5560,12,Section-3-Row-7-Seat-4,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5561,12,Section-1-Row-6-Seat-1,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5562,12,Section-2-Row-1-Seat-3,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5563,12,Section-2-Row-10-Seat-13,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5564,12,Section-2-Row-8-Seat-13,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5565,12,Section-5-Row-10-Seat-17,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5566,12,Section-1-Row-1-Seat-10,150,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5567,12,Section-5-Row-3-Seat-4,150,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5568,12,Section-5-Row-9-Seat-8,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5569,12,Section-2-Row-10-Seat-9,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5570,12,Section-2-Row-6-Seat-11,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5571,12,Section-3-Row-7-Seat-20,150,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5572,12,Section-4-Row-3-Seat-13,300,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5573,12,Section-4-Row-3-Seat-15,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5574,12,Section-3-Row-4-Seat-14,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5575,12,Section-5-Row-9-Seat-20,150,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5576,12,Section-5-Row-9-Seat-20,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5577,12,Section-2-Row-4-Seat-19,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5578,12,Section-2-Row-5-Seat-13,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5579,12,Section-5-Row-6-Seat-14,300,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5580,12,Section-2-Row-3-Seat-19,150,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5581,12,Section-4-Row-9-Seat-6,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5582,12,Section-3-Row-8-Seat-6,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5583,12,Section-5-Row-7-Seat-10,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5584,12,Section-5-Row-7-Seat-1,300,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5585,12,Section-1-Row-7-Seat-19,150,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5586,12,Section-3-Row-3-Seat-5,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5587,12,Section-3-Row-5-Seat-4,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5588,12,Section-4-Row-6-Seat-6,150,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5589,12,Section-1-Row-6-Seat-13,250,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5590,12,Section-4-Row-5-Seat-7,300,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5591,12,Section-2-Row-5-Seat-5,150,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5592,12,Section-5-Row-9-Seat-15,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5593,12,Section-5-Row-10-Seat-17,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5594,12,Section-1-Row-10-Seat-9,250,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5595,12,Section-5-Row-7-Seat-11,150,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5596,12,Section-2-Row-10-Seat-4,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5597,12,Section-3-Row-3-Seat-11,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5598,12,Section-4-Row-2-Seat-15,300,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5599,12,Section-5-Row-5-Seat-2,200,available,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5600,12,Section-1-Row-8-Seat-20,200,sold,S1003,Argentina,Morocco,3,2034-06-23 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5601,13,Section-4-Row-2-Seat-5,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5602,13,Section-3-Row-5-Seat-6,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5603,13,Section-2-Row-6-Seat-10,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5604,13,Section-3-Row-1-Seat-7,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5605,13,Section-2-Row-10-Seat-15,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5606,13,Section-3-Row-8-Seat-6,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5607,13,Section-3-Row-5-Seat-17,250,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5608,13,Section-1-Row-10-Seat-11,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5609,13,Section-1-Row-8-Seat-9,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5610,13,Section-4-Row-4-Seat-11,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5611,13,Section-1-Row-10-Seat-17,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5612,13,Section-1-Row-2-Seat-18,200,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5613,13,Section-5-Row-1-Seat-17,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5614,13,Section-3-Row-10-Seat-18,200,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5615,13,Section-5-Row-9-Seat-13,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5616,13,Section-4-Row-2-Seat-4,200,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5617,13,Section-2-Row-6-Seat-7,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5618,13,Section-4-Row-4-Seat-1,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5619,13,Section-4-Row-1-Seat-8,250,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5620,13,Section-3-Row-3-Seat-20,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5621,13,Section-5-Row-4-Seat-5,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5622,13,Section-3-Row-1-Seat-5,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5623,13,Section-3-Row-1-Seat-16,200,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5624,13,Section-4-Row-3-Seat-12,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5625,13,Section-1-Row-5-Seat-14,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5626,13,Section-4-Row-3-Seat-6,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5627,13,Section-5-Row-7-Seat-13,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5628,13,Section-1-Row-1-Seat-20,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5629,13,Section-4-Row-10-Seat-11,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5630,13,Section-5-Row-10-Seat-13,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5631,13,Section-1-Row-8-Seat-11,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5632,13,Section-5-Row-5-Seat-9,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5633,13,Section-4-Row-5-Seat-19,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5634,13,Section-2-Row-1-Seat-17,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5635,13,Section-4-Row-4-Seat-13,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5636,13,Section-4-Row-4-Seat-17,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5637,13,Section-2-Row-6-Seat-14,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5638,13,Section-5-Row-5-Seat-1,250,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5639,13,Section-3-Row-9-Seat-14,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5640,13,Section-5-Row-1-Seat-8,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5641,13,Section-3-Row-5-Seat-11,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5642,13,Section-5-Row-4-Seat-6,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5643,13,Section-2-Row-9-Seat-18,300,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5644,13,Section-5-Row-8-Seat-18,250,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5645,13,Section-4-Row-5-Seat-18,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5646,13,Section-3-Row-6-Seat-11,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5647,13,Section-1-Row-10-Seat-18,200,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5648,13,Section-4-Row-2-Seat-4,150,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5649,13,Section-4-Row-4-Seat-12,300,sold,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5650,13,Section-4-Row-1-Seat-6,150,available,S1003,Japan,Morocco,3,2034-06-10 00:00,Prince Mohammed bin Fahd Stadium,Dammam,35000
+T5651,14,Section-2-Row-5-Seat-12,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5652,14,Section-4-Row-1-Seat-13,200,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5653,14,Section-5-Row-1-Seat-9,200,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5654,14,Section-3-Row-3-Seat-14,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5655,14,Section-1-Row-10-Seat-8,200,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5656,14,Section-4-Row-8-Seat-13,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5657,14,Section-3-Row-6-Seat-17,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5658,14,Section-5-Row-6-Seat-16,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5659,14,Section-2-Row-6-Seat-8,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5660,14,Section-2-Row-1-Seat-2,200,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5661,14,Section-1-Row-2-Seat-13,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5662,14,Section-4-Row-4-Seat-18,150,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5663,14,Section-1-Row-1-Seat-18,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5664,14,Section-1-Row-8-Seat-14,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5665,14,Section-1-Row-3-Seat-5,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5666,14,Section-5-Row-2-Seat-8,150,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5667,14,Section-2-Row-8-Seat-15,200,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5668,14,Section-5-Row-2-Seat-12,250,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5669,14,Section-3-Row-4-Seat-8,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5670,14,Section-4-Row-2-Seat-3,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5671,14,Section-5-Row-3-Seat-20,200,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5672,14,Section-5-Row-9-Seat-12,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5673,14,Section-3-Row-10-Seat-14,150,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5674,14,Section-3-Row-2-Seat-3,150,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5675,14,Section-3-Row-1-Seat-8,150,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5676,14,Section-1-Row-8-Seat-20,200,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5677,14,Section-2-Row-4-Seat-11,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5678,14,Section-3-Row-3-Seat-20,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5679,14,Section-3-Row-8-Seat-20,150,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5680,14,Section-3-Row-3-Seat-9,150,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5681,14,Section-3-Row-3-Seat-13,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5682,14,Section-3-Row-10-Seat-20,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5683,14,Section-2-Row-5-Seat-13,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5684,14,Section-2-Row-4-Seat-7,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5685,14,Section-2-Row-8-Seat-13,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5686,14,Section-3-Row-9-Seat-12,150,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5687,14,Section-4-Row-2-Seat-13,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5688,14,Section-2-Row-1-Seat-13,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5689,14,Section-5-Row-1-Seat-13,200,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5690,14,Section-2-Row-2-Seat-16,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5691,14,Section-1-Row-9-Seat-9,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5692,14,Section-3-Row-2-Seat-4,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5693,14,Section-4-Row-3-Seat-6,200,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5694,14,Section-2-Row-8-Seat-1,300,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5695,14,Section-5-Row-10-Seat-4,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5696,14,Section-1-Row-9-Seat-12,250,available,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5697,14,Section-3-Row-4-Seat-14,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5698,14,Section-4-Row-10-Seat-18,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5699,14,Section-1-Row-5-Seat-2,200,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5700,14,Section-3-Row-9-Seat-15,300,sold,S1002,South Korea,England,2,2034-06-27 00:00,King Abdullah Sports City,Jeddah,62345
+T5701,15,Section-1-Row-9-Seat-20,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5702,15,Section-2-Row-9-Seat-19,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5703,15,Section-5-Row-5-Seat-4,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5704,15,Section-4-Row-4-Seat-9,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5705,15,Section-5-Row-2-Seat-7,250,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5706,15,Section-5-Row-7-Seat-8,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5707,15,Section-5-Row-8-Seat-3,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5708,15,Section-5-Row-10-Seat-10,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5709,15,Section-5-Row-7-Seat-17,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5710,15,Section-1-Row-1-Seat-17,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5711,15,Section-2-Row-9-Seat-12,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5712,15,Section-4-Row-10-Seat-1,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5713,15,Section-4-Row-5-Seat-8,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5714,15,Section-3-Row-10-Seat-4,300,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5715,15,Section-3-Row-10-Seat-17,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5716,15,Section-2-Row-7-Seat-4,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5717,15,Section-5-Row-7-Seat-18,250,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5718,15,Section-3-Row-2-Seat-8,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5719,15,Section-3-Row-10-Seat-4,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5720,15,Section-3-Row-7-Seat-6,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5721,15,Section-1-Row-9-Seat-2,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5722,15,Section-3-Row-10-Seat-1,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5723,15,Section-4-Row-9-Seat-19,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5724,15,Section-5-Row-3-Seat-9,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5725,15,Section-4-Row-10-Seat-8,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5726,15,Section-3-Row-10-Seat-15,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5727,15,Section-1-Row-8-Seat-6,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5728,15,Section-1-Row-10-Seat-4,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5729,15,Section-5-Row-6-Seat-16,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5730,15,Section-5-Row-2-Seat-8,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5731,15,Section-1-Row-7-Seat-7,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5732,15,Section-3-Row-2-Seat-2,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5733,15,Section-2-Row-9-Seat-2,200,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5734,15,Section-2-Row-2-Seat-9,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5735,15,Section-4-Row-8-Seat-14,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5736,15,Section-3-Row-8-Seat-14,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5737,15,Section-1-Row-10-Seat-4,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5738,15,Section-3-Row-9-Seat-19,250,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5739,15,Section-4-Row-5-Seat-17,250,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5740,15,Section-4-Row-1-Seat-7,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5741,15,Section-4-Row-8-Seat-7,300,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5742,15,Section-2-Row-3-Seat-9,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5743,15,Section-2-Row-2-Seat-5,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5744,15,Section-2-Row-4-Seat-14,300,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5745,15,Section-4-Row-3-Seat-9,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5746,15,Section-3-Row-1-Seat-16,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5747,15,Section-3-Row-6-Seat-18,200,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5748,15,Section-2-Row-4-Seat-18,150,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5749,15,Section-3-Row-8-Seat-17,150,available,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5750,15,Section-2-Row-4-Seat-7,300,sold,S1002,Germany,Brazil,2,2034-07-05 00:00,King Abdullah Sports City,Jeddah,62345
+T5751,16,Section-3-Row-10-Seat-14,300,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5752,16,Section-4-Row-9-Seat-6,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5753,16,Section-3-Row-9-Seat-16,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5754,16,Section-4-Row-7-Seat-12,300,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5755,16,Section-2-Row-7-Seat-4,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5756,16,Section-5-Row-1-Seat-19,250,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5757,16,Section-1-Row-6-Seat-18,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5758,16,Section-3-Row-8-Seat-15,250,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5759,16,Section-1-Row-1-Seat-4,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5760,16,Section-4-Row-8-Seat-5,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5761,16,Section-2-Row-9-Seat-5,200,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5762,16,Section-5-Row-7-Seat-6,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5763,16,Section-2-Row-9-Seat-19,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5764,16,Section-2-Row-10-Seat-9,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5765,16,Section-4-Row-10-Seat-10,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5766,16,Section-3-Row-7-Seat-11,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5767,16,Section-3-Row-8-Seat-14,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5768,16,Section-3-Row-1-Seat-19,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5769,16,Section-2-Row-8-Seat-5,300,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5770,16,Section-2-Row-5-Seat-6,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5771,16,Section-3-Row-6-Seat-20,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5772,16,Section-2-Row-9-Seat-11,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5773,16,Section-5-Row-6-Seat-2,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5774,16,Section-1-Row-8-Seat-2,300,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5775,16,Section-5-Row-1-Seat-12,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5776,16,Section-1-Row-7-Seat-18,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5777,16,Section-2-Row-2-Seat-20,200,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5778,16,Section-3-Row-3-Seat-20,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5779,16,Section-3-Row-10-Seat-9,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5780,16,Section-1-Row-2-Seat-13,250,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5781,16,Section-4-Row-6-Seat-20,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5782,16,Section-5-Row-1-Seat-19,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5783,16,Section-3-Row-4-Seat-8,200,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5784,16,Section-3-Row-1-Seat-14,300,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5785,16,Section-2-Row-7-Seat-19,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5786,16,Section-2-Row-10-Seat-20,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5787,16,Section-4-Row-9-Seat-10,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5788,16,Section-4-Row-2-Seat-8,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5789,16,Section-5-Row-7-Seat-13,250,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5790,16,Section-2-Row-5-Seat-3,200,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5791,16,Section-2-Row-5-Seat-6,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5792,16,Section-1-Row-10-Seat-12,300,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5793,16,Section-2-Row-4-Seat-20,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5794,16,Section-2-Row-8-Seat-20,300,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5795,16,Section-4-Row-8-Seat-3,150,available,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5796,16,Section-2-Row-9-Seat-17,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5797,16,Section-2-Row-9-Seat-3,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5798,16,Section-3-Row-6-Seat-9,250,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5799,16,Section-2-Row-1-Seat-9,150,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5800,16,Section-4-Row-8-Seat-9,200,sold,S1002,Brazil,Morocco,2,2034-06-22 00:00,King Abdullah Sports City,Jeddah,62345
+T5801,17,Section-5-Row-10-Seat-13,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5802,17,Section-5-Row-1-Seat-16,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5803,17,Section-2-Row-5-Seat-8,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5804,17,Section-4-Row-5-Seat-16,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5805,17,Section-3-Row-1-Seat-8,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5806,17,Section-1-Row-6-Seat-9,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5807,17,Section-4-Row-4-Seat-13,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5808,17,Section-3-Row-3-Seat-3,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5809,17,Section-5-Row-6-Seat-1,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5810,17,Section-1-Row-6-Seat-3,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5811,17,Section-4-Row-3-Seat-4,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5812,17,Section-4-Row-9-Seat-11,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5813,17,Section-3-Row-7-Seat-15,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5814,17,Section-5-Row-10-Seat-9,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5815,17,Section-3-Row-4-Seat-5,150,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5816,17,Section-5-Row-10-Seat-12,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5817,17,Section-2-Row-9-Seat-1,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5818,17,Section-5-Row-10-Seat-19,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5819,17,Section-4-Row-9-Seat-3,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5820,17,Section-4-Row-1-Seat-6,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5821,17,Section-1-Row-3-Seat-2,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5822,17,Section-1-Row-10-Seat-20,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5823,17,Section-1-Row-5-Seat-6,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5824,17,Section-1-Row-7-Seat-19,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5825,17,Section-1-Row-3-Seat-18,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5826,17,Section-3-Row-2-Seat-7,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5827,17,Section-1-Row-1-Seat-12,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5828,17,Section-4-Row-2-Seat-1,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5829,17,Section-4-Row-8-Seat-4,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5830,17,Section-1-Row-10-Seat-18,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5831,17,Section-2-Row-6-Seat-12,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5832,17,Section-2-Row-5-Seat-14,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5833,17,Section-2-Row-1-Seat-15,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5834,17,Section-4-Row-2-Seat-6,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5835,17,Section-4-Row-7-Seat-1,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5836,17,Section-4-Row-9-Seat-15,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5837,17,Section-3-Row-4-Seat-3,200,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5838,17,Section-4-Row-2-Seat-11,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5839,17,Section-3-Row-10-Seat-10,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5840,17,Section-1-Row-1-Seat-12,250,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5841,17,Section-3-Row-8-Seat-15,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5842,17,Section-1-Row-2-Seat-10,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5843,17,Section-5-Row-9-Seat-1,150,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5844,17,Section-5-Row-3-Seat-9,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5845,17,Section-3-Row-5-Seat-2,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5846,17,Section-5-Row-6-Seat-3,200,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5847,17,Section-2-Row-9-Seat-18,250,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5848,17,Section-4-Row-8-Seat-19,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5849,17,Section-3-Row-9-Seat-2,300,sold,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5850,17,Section-2-Row-10-Seat-8,300,available,S1001,South Korea,Mexico,1,2034-06-13 00:00,King Fahd Stadium,Riyadh,75000
+T5851,18,Section-1-Row-4-Seat-15,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5852,18,Section-2-Row-4-Seat-20,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5853,18,Section-4-Row-8-Seat-11,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5854,18,Section-3-Row-3-Seat-10,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5855,18,Section-2-Row-4-Seat-18,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5856,18,Section-2-Row-4-Seat-11,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5857,18,Section-2-Row-6-Seat-12,200,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5858,18,Section-5-Row-2-Seat-9,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5859,18,Section-3-Row-9-Seat-3,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5860,18,Section-1-Row-6-Seat-5,300,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5861,18,Section-4-Row-2-Seat-11,300,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5862,18,Section-3-Row-9-Seat-13,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5863,18,Section-2-Row-4-Seat-5,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5864,18,Section-5-Row-9-Seat-5,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5865,18,Section-3-Row-7-Seat-15,150,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5866,18,Section-4-Row-7-Seat-4,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5867,18,Section-1-Row-1-Seat-10,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5868,18,Section-2-Row-4-Seat-4,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5869,18,Section-5-Row-8-Seat-8,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5870,18,Section-1-Row-7-Seat-17,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5871,18,Section-4-Row-1-Seat-19,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5872,18,Section-3-Row-1-Seat-1,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5873,18,Section-2-Row-2-Seat-6,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5874,18,Section-4-Row-7-Seat-15,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5875,18,Section-3-Row-3-Seat-7,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5876,18,Section-3-Row-1-Seat-17,150,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5877,18,Section-3-Row-10-Seat-4,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5878,18,Section-1-Row-6-Seat-14,300,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5879,18,Section-2-Row-7-Seat-10,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5880,18,Section-1-Row-6-Seat-8,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5881,18,Section-5-Row-4-Seat-13,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5882,18,Section-5-Row-6-Seat-8,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5883,18,Section-5-Row-5-Seat-19,150,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5884,18,Section-3-Row-6-Seat-18,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5885,18,Section-3-Row-1-Seat-18,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5886,18,Section-4-Row-7-Seat-15,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5887,18,Section-1-Row-8-Seat-9,300,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5888,18,Section-4-Row-8-Seat-17,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5889,18,Section-5-Row-6-Seat-18,150,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5890,18,Section-3-Row-2-Seat-8,200,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5891,18,Section-4-Row-3-Seat-18,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5892,18,Section-3-Row-8-Seat-16,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5893,18,Section-2-Row-2-Seat-3,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5894,18,Section-2-Row-10-Seat-1,150,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5895,18,Section-2-Row-10-Seat-15,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5896,18,Section-3-Row-8-Seat-16,300,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5897,18,Section-1-Row-9-Seat-7,250,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5898,18,Section-3-Row-6-Seat-4,150,sold,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5899,18,Section-1-Row-7-Seat-3,250,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5900,18,Section-1-Row-2-Seat-14,300,available,S1002,France,Germany,2,2034-07-08 00:00,King Abdullah Sports City,Jeddah,62345
+T5901,19,Section-2-Row-1-Seat-9,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5902,19,Section-5-Row-1-Seat-20,200,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5903,19,Section-1-Row-5-Seat-9,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5904,19,Section-5-Row-5-Seat-20,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5905,19,Section-1-Row-3-Seat-14,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5906,19,Section-3-Row-1-Seat-19,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5907,19,Section-4-Row-5-Seat-11,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5908,19,Section-2-Row-6-Seat-19,150,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5909,19,Section-5-Row-7-Seat-6,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5910,19,Section-5-Row-8-Seat-7,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5911,19,Section-2-Row-2-Seat-10,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5912,19,Section-4-Row-1-Seat-18,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5913,19,Section-1-Row-8-Seat-12,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5914,19,Section-5-Row-6-Seat-3,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5915,19,Section-3-Row-5-Seat-4,300,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5916,19,Section-1-Row-5-Seat-12,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5917,19,Section-1-Row-9-Seat-16,200,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5918,19,Section-4-Row-10-Seat-3,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5919,19,Section-4-Row-7-Seat-4,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5920,19,Section-5-Row-9-Seat-17,200,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5921,19,Section-2-Row-1-Seat-2,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5922,19,Section-2-Row-7-Seat-10,150,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5923,19,Section-2-Row-4-Seat-1,200,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5924,19,Section-2-Row-3-Seat-13,200,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5925,19,Section-5-Row-8-Seat-18,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5926,19,Section-1-Row-2-Seat-11,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5927,19,Section-1-Row-8-Seat-19,200,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5928,19,Section-2-Row-6-Seat-15,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5929,19,Section-3-Row-9-Seat-11,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5930,19,Section-4-Row-10-Seat-17,200,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5931,19,Section-2-Row-3-Seat-10,200,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5932,19,Section-4-Row-7-Seat-11,150,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5933,19,Section-1-Row-10-Seat-7,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5934,19,Section-4-Row-1-Seat-14,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5935,19,Section-4-Row-2-Seat-17,250,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5936,19,Section-2-Row-1-Seat-19,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5937,19,Section-1-Row-9-Seat-12,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5938,19,Section-2-Row-7-Seat-6,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5939,19,Section-5-Row-8-Seat-18,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5940,19,Section-1-Row-3-Seat-17,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5941,19,Section-4-Row-6-Seat-11,150,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5942,19,Section-2-Row-4-Seat-6,150,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5943,19,Section-4-Row-8-Seat-1,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5944,19,Section-1-Row-5-Seat-4,300,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5945,19,Section-1-Row-6-Seat-7,150,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5946,19,Section-5-Row-8-Seat-7,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5947,19,Section-4-Row-6-Seat-14,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5948,19,Section-2-Row-2-Seat-14,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5949,19,Section-5-Row-3-Seat-8,300,sold,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5950,19,Section-5-Row-1-Seat-1,250,available,S1001,Brazil,Morocco,1,2034-06-30 00:00,King Fahd Stadium,Riyadh,75000
+T5951,20,Section-4-Row-5-Seat-1,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5952,20,Section-2-Row-10-Seat-13,250,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5953,20,Section-3-Row-8-Seat-8,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5954,20,Section-4-Row-6-Seat-18,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5955,20,Section-1-Row-6-Seat-6,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5956,20,Section-2-Row-6-Seat-20,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5957,20,Section-4-Row-9-Seat-1,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5958,20,Section-2-Row-6-Seat-3,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5959,20,Section-1-Row-9-Seat-20,250,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5960,20,Section-2-Row-10-Seat-18,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5961,20,Section-3-Row-9-Seat-14,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5962,20,Section-2-Row-3-Seat-20,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5963,20,Section-1-Row-3-Seat-9,150,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5964,20,Section-4-Row-3-Seat-14,250,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5965,20,Section-1-Row-8-Seat-17,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5966,20,Section-3-Row-1-Seat-10,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5967,20,Section-2-Row-10-Seat-5,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5968,20,Section-1-Row-8-Seat-9,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5969,20,Section-1-Row-10-Seat-12,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5970,20,Section-4-Row-5-Seat-19,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5971,20,Section-3-Row-5-Seat-3,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5972,20,Section-4-Row-5-Seat-10,300,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5973,20,Section-4-Row-7-Seat-18,250,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5974,20,Section-4-Row-5-Seat-10,150,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5975,20,Section-4-Row-5-Seat-9,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5976,20,Section-3-Row-4-Seat-17,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5977,20,Section-4-Row-2-Seat-20,150,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5978,20,Section-1-Row-4-Seat-13,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5979,20,Section-1-Row-4-Seat-16,250,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5980,20,Section-2-Row-5-Seat-5,250,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5981,20,Section-3-Row-4-Seat-5,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5982,20,Section-2-Row-1-Seat-7,250,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5983,20,Section-3-Row-4-Seat-4,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5984,20,Section-2-Row-6-Seat-10,250,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5985,20,Section-4-Row-6-Seat-12,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5986,20,Section-1-Row-7-Seat-10,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5987,20,Section-3-Row-6-Seat-6,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5988,20,Section-4-Row-5-Seat-12,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5989,20,Section-1-Row-10-Seat-2,150,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5990,20,Section-4-Row-8-Seat-2,150,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5991,20,Section-1-Row-10-Seat-1,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5992,20,Section-3-Row-8-Seat-18,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5993,20,Section-5-Row-5-Seat-13,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5994,20,Section-1-Row-9-Seat-4,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5995,20,Section-3-Row-8-Seat-4,300,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5996,20,Section-3-Row-7-Seat-19,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5997,20,Section-3-Row-8-Seat-13,200,available,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5998,20,Section-5-Row-5-Seat-17,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T5999,20,Section-2-Row-1-Seat-11,200,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
+T6000,20,Section-5-Row-7-Seat-8,250,sold,S1001,South Korea,Germany,1,2034-06-15 00:00,King Fahd Stadium,Riyadh,75000
